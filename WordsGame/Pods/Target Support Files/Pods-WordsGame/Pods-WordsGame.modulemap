@@ -1,0 +1,6 @@
+framework module Pods_WordsGame {
+  umbrella header "Pods-WordsGame-umbrella.h"
+
+  export *
+  module * { export * }
+}
