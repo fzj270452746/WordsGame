@@ -248,7 +248,7 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WordsGame/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Slot Words Game";
+				INFOPLIST_KEY_CFBundleDisplayName = "Random Slot Letters";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to save your game results.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -292,7 +292,7 @@
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = WordsGame/Info.plist;
-				INFOPLIST_KEY_CFBundleDisplayName = "Slot Words Game";
+				INFOPLIST_KEY_CFBundleDisplayName = "Random Slot Letters";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We need access to your photo library to save your game results.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;

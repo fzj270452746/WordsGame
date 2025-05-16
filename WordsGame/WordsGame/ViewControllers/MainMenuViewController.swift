@@ -13,6 +13,12 @@ class MainMenuViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         setupUI()
+        
+        // 设置标题动画
+        setupTitle()
+        
+        // 设置按钮
+        setupButtons()
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -34,11 +40,7 @@ class MainMenuViewController: UIViewController {
             }
         }
         
-        // 设置标题动画
-        setupTitle()
-        
-        // 设置按钮
-        setupButtons()
+
     }
     
     private func setupUI() {
@@ -92,7 +94,7 @@ class MainMenuViewController: UIViewController {
         ])
         
         // Create monster letter tiles for the title "WORDS"
-        let letters = ["W", "O", "R", "D", "S"]
+        let letters = ["R", "A", "N", "D", "O", "M"]
         let tileWidth: CGFloat = 50
         let spacing: CGFloat = 5
         let startX = (300 - (CGFloat(letters.count) * tileWidth + CGFloat(letters.count - 1) * spacing)) / 2

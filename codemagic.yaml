@@ -1,6 +1,6 @@
 workflows:
   ios-native-quick-start:
-    name: Slot Words Game
+    name: Random Slot Letters
     max_build_duration: 120
     instance_type: mac_mini_m2
     integrations:
